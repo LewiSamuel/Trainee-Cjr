@@ -1,5 +1,5 @@
 function andando(){
-	console.log("andando.......")
+	console.log("parado.......")
 }
 
 var carro = {
